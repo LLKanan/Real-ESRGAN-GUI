@@ -6,7 +6,7 @@ This was designed specifically for videos, but can be used for images.
  - Python >= 3.7 (Recommend to use Anaconda or Miniconda)
  - PyTorch >= 1.7
  - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN#installation)
- - FFMPEG, you must also set the PATH value for FFMPEG
+ - FFMPEG, you must also set the PATH value for FFMPEG, you also need to install the PIP module for FFMPEG
  - Make sure you can run FFMPEG in terminal/powershell and inference_realesrgan_video.py
 
 ##Installation and how to use
