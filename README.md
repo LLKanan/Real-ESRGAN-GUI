@@ -1,6 +1,8 @@
 # Real-ESRGAN-GUI
 A GUI for the image upscaling model [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 This was designed specifically for videos, but can be used for images.
+![image](https://user-images.githubusercontent.com/54023991/226312548-a35cfbe7-0279-4676-bb1e-30649b3da393.png)
+
 
 ## Requirements
  - Python >= 3.7 (Recommend to use Anaconda or Miniconda)
