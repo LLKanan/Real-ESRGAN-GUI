@@ -1,6 +1,8 @@
 # Real-ESRGAN-GUI
 A GUI for the image upscaling model [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 This was designed specifically for videos, but can be used for images.
+
+
 ![image](https://user-images.githubusercontent.com/54023991/226312548-a35cfbe7-0279-4676-bb1e-30649b3da393.png)
 
 
@@ -11,7 +13,7 @@ This was designed specifically for videos, but can be used for images.
  - FFMPEG, you must also set the PATH value for FFMPEG, you also need to install the PIP module for FFMPEG
  - Make sure you can run FFMPEG in terminal/powershell and inference_realesrgan_video.py
 
-##Installation and how to use
+## Installation and how to use
  - Place anime-upscaler.py file inside the /Real-ESRGAN directory (This directory should also contain inference_realesrgan_video.py)
  - Run "python anime-upscaler.py"
 
